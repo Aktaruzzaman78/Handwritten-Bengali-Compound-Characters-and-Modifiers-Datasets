@@ -1,4 +1,4 @@
-# Citation for this dataset:
+# Citation:
 This datasets are under revision for release. 
 # Data Description
 The symbols (characters and numerals) in these datasets were collected from 130 individuals of different age, sex and professions, There are two datasets: i) the set of handwritten Bengali compound characters (IUBCCdb), ii) the set of handwritten Bengali modifiers (IUBMCdb). Some details of these datasets are given below:
